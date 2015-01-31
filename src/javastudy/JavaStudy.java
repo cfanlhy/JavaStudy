@@ -15,7 +15,7 @@ public class JavaStudy {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Github Text");// TODO code application logic here
+        System.out.println("Github Text from Thinkpad");// TODO code application logic here
     }
     
 }
